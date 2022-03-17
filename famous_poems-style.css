@@ -1,13 +1,12 @@
-a{font-family: 'Jazz LET', fantasy;}
+<link href='https://fonts.googleapis.com/css?family=Akronim' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Akronim';font-size: 22px;
+}
 a{color:#F2C973;}
-p{font-family: 'Marker Felt', fantasy;}
 p{color:#DA8CFF;}
-h1{font-family: 'Marker Felt', fantasy;}
 h1{color:#DA8CFF;}
-h2{font-family: 'Marker Felt', fantasy;}
 h2{color:#DA8CFF;}
-h3{font-family: 'Marker Felt', fantasy;;}
 h3{color:#DA8CFF;}
-li{font-family: 'Marker Felt', fantasy;}
 li{color:#F2C973;}
 body{background-color:#B5FEE6;}
